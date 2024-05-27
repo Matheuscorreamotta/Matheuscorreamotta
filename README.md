@@ -3,7 +3,6 @@
 Matheus Corrêa Motta
 
 - Estudante Ensino Médio 
-- Alura
-- Ana Franco Da Rocha Brando 
+- Alura 
 - Compartilhar projetos pra ganhar nota no bimestre 
 ![](https://media1.tenor.com/m/ZMQeC9TLZikAAAAC/souls.gif)
